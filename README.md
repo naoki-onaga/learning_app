@@ -1,2 +1,2 @@
 # learning_app
-learning spring + react APP
+- SpringとReactを利用して個人開発の学習をするためのrepository
